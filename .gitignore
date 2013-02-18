@@ -8,6 +8,9 @@ lib_managed/
 src_managed/
 project/boot/
 project/plugins/project/
+.classpath
+.project
+
 
 # Scala-IDE specific
 .scala_dependencies
